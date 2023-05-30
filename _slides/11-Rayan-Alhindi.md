@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-This is a modification for my captions!
+Updating Caption!
 
 ![codercat](https://octodex.github.com/images/codercat.jpg)
 {: .center}
